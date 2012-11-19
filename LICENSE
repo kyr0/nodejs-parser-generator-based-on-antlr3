@@ -1,0 +1,33 @@
+Portions of the code in this repository are licensed by:
+
+Changes to the ANTLR JavaScript runtime code and
+build automation files generate.js, parse.js:
+
+Copyright (c) 2012 Aron Homberg
+[The BSD License] http://www.antlr.org/license.html
+All rights reserved.
+
+ANTLR 3 (library/antlr-3.3.jar, code in runtime-directory excluding 'third' sub-directory):
+
+[The BSD License] http://www.antlr.org/license.html
+Copyright (c) 2010 Terence Parr
+All rights reserved.
+http://www.antlr.org/
+
+Closure compiler (runtime/third/compiler.jar)
+
+Copyright 2009 The Closure Compiler Authors.
+Licensed under the Apache License, Version 2.0 (the "License");
+http://www.apache.org/licenses/LICENSE-2.0
+https://developers.google.com/closure/compiler/
+
+Ant contrib library (runtime/third/ant-contrib-1.0b3.jar)
+
+The Ant-Contrib project is a collection of tasks (and at one point maybe types and other tools) for Apache Ant.
+This Software is distributed under the Apache Software License.
+http://ant-contrib.sourceforge.net/
+
+JavaScript grammar file: grammars/JavaScript.g
+
+Copyright 2008 Chris Lambrou.
+Copyright 2012 Aron Homberg. (minor changes)
